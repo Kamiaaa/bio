@@ -29,7 +29,7 @@ const PromotionalBanner = () => {
       >
         {/* Video Play Button */}
         <a
-          href="https://youtu.be/0LWZeK0RFkA"
+          href="https://www.youtube.com/watch?v=7yoncwdMbyg"
           target="_blank"
           rel="noopener noreferrer"
           className="w-16 h-16 rounded-full bg-red-600 text-white shadow-lg flex items-center justify-center hover:scale-110 transition duration-300 z-10"
