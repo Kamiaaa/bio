@@ -20,7 +20,7 @@ const PromotionalBanner = () => {
       ref={containerRef}
       className="relative w-full h-[500px] overflow-hidden bg-fixed bg-center bg-cover bg-no-repeat"
       style={{
-        backgroundImage: "/img/jolshiri.jpg",
+        backgroundImage: "url('/img/jolshiri.jpg')",
       }}
     >
       <motion.div
