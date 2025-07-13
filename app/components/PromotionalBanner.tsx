@@ -20,7 +20,7 @@ const PromotionalBanner = () => {
       ref={containerRef}
       className="relative w-full h-[500px] overflow-hidden bg-fixed bg-center bg-cover bg-no-repeat"
       style={{
-        backgroundImage: "url('/img/footer-bg.jpg')",
+        backgroundImage: "url('https://images.ctfassets.net/zoq5l15g49wj/66lP4jC7HheXyqj7QftNGd/a1af333272ffa967396de5eddd7ad24b/Collab-Modal-Cavalli-2_1.webp')",
       }}
     >
       <motion.div
